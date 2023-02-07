@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create an Azure Virtual Machine Windows 10, 4vCPUs
 - Create Resource Groups
-- Create Virtual Machines(x2)
+- Create Virtual Machine(s)
 - RDP (Remote Desktop Protocol) from HostOS into Virtual environment
   of GuestOS via IP address of VM1 
 - Installation Files (Prerequisite Software)
