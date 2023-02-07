@@ -19,8 +19,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Ticket properties
-- SLAs (Service Level Agreements)
+- Create an Azure Virtual Machine Windows 10, 4vCPUs
+- Installation Files: https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit?usp=share_link
 - Departments
 - Permissions
 - Users
