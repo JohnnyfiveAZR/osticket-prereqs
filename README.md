@@ -20,12 +20,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create an Azure Virtual Machine Windows 10, 4vCPUs
-- Installation Files: Open this: Installation Files
-We will use these files to install osTicket and some of the dependencies. I’m using this offline version to make sure everyone is using the same version of all the files :)
-
-- 
-- 
-- Users
+- Create Resource Groups
+- Create Virtual Machines(x2)
+- RDP (Remote Desktop Protocol) from HostOS into Virtual environment
+  of GuestOS via IP address of VM1 
+- Installation Files
+- Install osTicket v1.15.8
 
 <h2>Installation Steps</h2>
 
