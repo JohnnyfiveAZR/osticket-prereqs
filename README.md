@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create Virtual Machines(x2)
 - RDP (Remote Desktop Protocol) from HostOS into Virtual environment
   of GuestOS via IP address of VM1 
-- Installation Files
+- Installation Files (Prerequisite Software)
 - Install osTicket v1.15.8
 
 <h2>Installation Steps</h2>
