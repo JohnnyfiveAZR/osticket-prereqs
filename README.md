@@ -3,12 +3,12 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system through osticket.<br />
+This tutorial will show and outline what is needed for the prerequisites and installation of the open-source help desk ticketing system so you can create your own practice home lab through osticket!<br />
 
 
 <h2>Gain a better concept and understanding of all parts of a ticketing system, such as:</h2>
 
->Tickets properties
+>Ticket properties
 
 >SLAs(Service Level Agreements)
 
@@ -31,13 +31,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create an Azure Virtual Machine (Windows 10 (21H2), 2-4vCPUs)
+- Setup a Virtual Machine in Azure
 - Create Resource Groups
 - Create Virtual Machines
+- Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs recommended)
 - RDP (Remote Desktop Protocol) from HostOS into Virtual environment
   of GuestOS via IP address of VM1/VM2
 - [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)(Prerequisite Software)
 - Install osTicket v1.15.8
+- Explore osTicket as a Help Desk Professional
+- Clean up Virtual Envoironment in Azure
 
 <h2>Installation Steps</h2>
 
