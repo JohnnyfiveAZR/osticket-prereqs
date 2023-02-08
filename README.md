@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial will show and outline what is needed for the prerequisites and installation of the open-source help desk ticketing system so you can create your own practice home lab through osticket!<br />
+This tutorial will show and outline what is needed for the prerequisites and installation of the open-source help desk ticketing system so you can create your own practice home lab through osTicket!<br />
 
 
 <h2>Gain a better concept and understanding of all parts of a ticketing system, such as:</h2>
