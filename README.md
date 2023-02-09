@@ -32,7 +32,6 @@ This tutorial will show and outline what is needed for the prerequisites and ins
 <h2>List of Prerequisites</h2>
 
 - Setup free Microsoft Azure account
-- Create Virtual Machine
 - Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs recommended)
 - [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)(Prerequisite Software)
 - Install osTicket v1.15.8
