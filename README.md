@@ -32,7 +32,7 @@ This tutorial will show and outline what is needed for the prerequisites and ins
 <h2>List of Prerequisites</h2>
 
 - Setup free Microsoft Azure account
-- Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs recommended)
+- Create an Azure Virtual Machine
 - [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)(Prerequisite Software)
 - Install osTicket v1.15.8
 - Explore osTicket as a Help Desk Professional
@@ -44,7 +44,7 @@ This tutorial will show and outline what is needed for the prerequisites and ins
 <img src="https://i.imgur.com/5wkcvnL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Text
+Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs recommended)
 </p>
 <br />
 
