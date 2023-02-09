@@ -107,15 +107,13 @@ Text
 <h3 align="left">Connect to your Virtual Machine via (RDP) Remote Desktop</h3>
 
 <p>
-<img src="https://i.imgur.com/cTmy3AH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/85t986Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/p63xVte.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
