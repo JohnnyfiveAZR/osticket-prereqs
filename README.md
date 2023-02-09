@@ -122,7 +122,7 @@ Text
 </p>
 <br/>
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I2Pysco.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Text
 
 
