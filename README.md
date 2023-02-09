@@ -89,7 +89,7 @@ Text
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VkBhzXX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
@@ -97,7 +97,7 @@ Text
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5jejWgu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
