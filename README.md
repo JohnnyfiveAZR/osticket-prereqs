@@ -40,6 +40,10 @@ This tutorial will show and outline what is needed for the prerequisites and ins
 
 <h2>Installation Steps</h2>
 
+
+
+<h3 align="left">Create Virutal Machine in Azure</h3>
+
 <p>
 <img src="https://i.imgur.com/5wkcvnL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -110,7 +114,8 @@ Text
 <img src="https://i.imgur.com/85t986Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Text
+
+<h3 align="left">Install | Enable IIS in Windows (Internet Information Services)</h3>
 </p>
 <br />
 
