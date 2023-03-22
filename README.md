@@ -10,13 +10,13 @@ This tutorial will show and outline what is needed for the prerequisites and ins
 
 - Ticket properties
 
-SLAs(Service Level Agreements)
+- SLAs(Service Level Agreements)
 
-Departments
+- Departments
 
-Permissions
+- Permissions
 
-Users
+- Users
 
 
 <h2>Environments and Technologies Used</h2>
