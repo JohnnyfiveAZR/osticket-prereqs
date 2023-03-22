@@ -47,10 +47,12 @@ This tutorial will show and outline what is needed for the prerequisites and ins
 <br />
 <img src="https://i.imgur.com/CgOMdiy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<img src="https://i.imgur.com/GKd1sdE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <h3 align="left">Create Virutal Machine in Azure</h3>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4ChyBgf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs recommended)
@@ -58,7 +60,7 @@ Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs re
 <br />
 
 <p>
-<img src="https://i.imgur.com/HWichuS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RGtmdQr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
@@ -66,7 +68,7 @@ Text
 <br />
 
 <p>
-<img src="https://i.imgur.com/t7lXC28.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AtGNZPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
@@ -74,7 +76,7 @@ Text
 <br />
 
 <p>
-<img src="https://i.imgur.com/7SkEEEr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
