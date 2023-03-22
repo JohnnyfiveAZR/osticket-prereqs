@@ -74,6 +74,12 @@ Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs re
 - Name: Vm-osticket
 - Username: labuser (for example/whatever you chose)
 - Password: osTicketPassword1! (for example/whatever you chose)
+  <br />
+<img src="https://i.imgur.com/s5cwUro.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/sthf0oa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/uhqJeO8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <br />
@@ -87,7 +93,7 @@ Text
 <br />
 
 <p>
-<img src="https://i.imgur.com/5eCSrgL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
@@ -95,7 +101,7 @@ Text
 <br />
 
 <p>
-<img src="https://i.imgur.com/x9AtwGG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
@@ -103,7 +109,7 @@ Text
 <br />
 
 <p>
-<img src="https://i.imgur.com/VkBhzXX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
@@ -111,7 +117,7 @@ Text
 <br />
 
 <p>
-<img src="https://i.imgur.com/5jejWgu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
@@ -121,7 +127,7 @@ Text
 <h3 align="left">Connect to your Virtual Machine via (RDP) Remote Desktop</h3>
 
 <p>
-<img src="https://i.imgur.com/85t986Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
