@@ -99,18 +99,23 @@ Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs re
 <img src="https://i.imgur.com/Yu9HVjI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
+<br />
 <img src="https://i.imgur.com/0kpX7SD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
+<br />
 <img src="https://i.imgur.com/S94Ixst.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
+<br />
 <img src="https://i.imgur.com/dV1o4CC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
+<br />
 <img src="https://i.imgur.com/P8Pdr9l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<br />
 
 <h3 align="left">Install | Enable IIS in Windows (Internet Information Services)</h3>
 </p>
