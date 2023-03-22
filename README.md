@@ -63,12 +63,12 @@ Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs re
 <img src="https://i.imgur.com/AtGNZPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Text
+- Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aCPdC5j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
