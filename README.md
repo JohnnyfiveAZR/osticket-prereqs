@@ -129,13 +129,18 @@ Text
 <p>
 <img src="https://i.imgur.com/Gq5cN7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/Yu9HVjI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <img src="https://i.imgur.com/0kpX7SD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/S94Ixst.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
 <img src="https://i.imgur.com/dV1o4CC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <img src="https://i.imgur.com/P8Pdr9l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
