@@ -60,7 +60,7 @@ Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs re
 <br />
 
 <p>
-<img src="https://i.imgur.com/RGtmdQr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AtGNZPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
@@ -68,7 +68,7 @@ Text
 <br />
 
 <p>
-<img src="https://i.imgur.com/AtGNZPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Text
