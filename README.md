@@ -45,7 +45,7 @@ This tutorial will show and outline what is needed for the prerequisites and ins
 <h3 align="left">Create Virutal Machine in Azure</h3>
 
 <p>
-<img src="https://i.imgur.com/5wkcvnL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs recommended)
