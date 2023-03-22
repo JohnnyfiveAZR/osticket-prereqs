@@ -71,7 +71,10 @@ Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs re
 <img src="https://i.imgur.com/aCPdC5j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Text
+- Name: Vm-osticket
+- Username: labuser (for example/whatever you chose)
+- Password: osTicketPassword1! (for example/whatever you chose)
+
 </p>
 <br />
 
