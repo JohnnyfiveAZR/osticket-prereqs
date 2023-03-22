@@ -8,7 +8,7 @@ This tutorial will show and outline what is needed for the prerequisites and ins
 
 <h2>Gain a better concept and understanding of all parts of a ticketing system, such as:</h2>
 
-Ticket properties
+- Ticket properties
 
 SLAs(Service Level Agreements)
 
