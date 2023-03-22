@@ -41,7 +41,7 @@ This tutorial will show and outline what is needed for the prerequisites and ins
 <h2>Installation Steps</h2>
 
 
-
+<h3 align="left">Create Resource Group</h3>
 <h3 align="left">Create Virutal Machine in Azure</h3>
 
 <p>
