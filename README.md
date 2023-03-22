@@ -44,6 +44,7 @@ This tutorial will show and outline what is needed for the prerequisites and ins
 <h3 align="left">Create Resource Group</h3>
 <br />
 <img src="https://i.imgur.com/SnVwg9E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+*img src="https://i.imgur.com/SnVwg9E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>**
 <br />
 <h3 align="left">Create Virutal Machine in Azure</h3>
 
