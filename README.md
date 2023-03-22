@@ -63,7 +63,6 @@ Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs re
 <img src="https://i.imgur.com/AtGNZPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
 </p>
 <br />
 
@@ -80,49 +79,9 @@ Create an Azure Virtual Machine (Windows 10 (21H2) Operating System, 2-4vCPUs re
 <img src="https://i.imgur.com/sthf0oa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/uhqJeO8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-</p>
+<br />
 <br />
 
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Text
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Text
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Text
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Text
-</p>
-<br />
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Text
-</p>
-<br />
 
 <h3 align="left">Connect to your Virtual Machine via (RDP) Remote Desktop</h3>
 
